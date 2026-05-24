@@ -1,0 +1,6 @@
+{
+  "name": "TransitReserve",
+  "description": "A passenger reservation, seat booking, and live geographic bus tracking system with dynamic ETA calculations and alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
